@@ -39,7 +39,7 @@ This dataset contains data about the pressure.
 
 ## Some code
 
-Number of standard observations
+Number of max observations
 
 
 ```r
